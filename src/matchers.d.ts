@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { TestingLibraryMatchers } from "@testing-library/jest-dom/matchers";
 import { Matchers, AsymmetricMatchers } from "bun:test";
 
